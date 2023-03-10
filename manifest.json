@@ -1,7 +1,12 @@
 {
 	"id": "gamehub",
 	"name": "GameHub",
+	"icon": "icon.svg",
 	"version": "1.0",
 	"versionCode": 1,
-	"description": "Games from the legacy WhiteSpider website"
+	"description": "Games from the legacy WhiteSpider website",
+	"windowOptions": {
+		"staticTitle": true,
+		"staticIcon": true
+	}
 }
