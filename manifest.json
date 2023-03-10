@@ -1,35 +1,7 @@
 {
-	"manifest_version": 2,
-	"name": "WhiteSpider",
-	"short_name": "WhiteSpider",
-	"description": "Unblocked Games",
-	"version": "2.1.2",
-	"display": "fullscreen",
-	"orientation": "any",
-	"background_color": "#5a97f3",
-	"theme_color": "#5a97f3",
-	"start_url": "/",
-	"scope": "/",
-	"icons": [
-		{
-			"src": "res/logo64.png",
-			"sizes": "64x64",
-			"type": "image/png"
-		},
-		{
-			"src": "res/logo128.png",
-			"sizes": "128x128",
-			"type": "image/png"
-		},
-		{
-			"src": "res/logo256.png",
-			"sizes": "256x256",
-			"type": "image/png"
-		},
-		{
-			"src": "res/logo512.png",
-			"sizes": "512x512",
-			"type": "image/png"
-		}
-	]
+	"id": "gamehub",
+	"name": "GameHub",
+	"version": "1.0",
+	"versionCode": 1,
+	"description": "Unblocked Games Collection"
 }

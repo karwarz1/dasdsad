@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-	<!--
-⁠$$\      $$\ $$\       $$\   $$\                $$$$$$\            $$\       $$\                                             
-⁠$$ | $\  $$ |$$ |      \__|  $$ |              $$  __$$\           \__|      $$ |                                            
-⁠$$ |$$$\ $$ |$$$$$$$\  $$\ $$$$$$\    $$$$$$\  $$ /  \__| $$$$$$\  $$\  $$$$$$$ | $$$$$$\   $$$$$$\       $$$$$$\   $$$$$$\  
-⁠$$ $$ $$\$$ |$$  __$$\ $$ |\_$$  _|  $$  __$$\ \$$$$$$\  $$  __$$\ $$ |$$  __$$ |$$  __$$\ $$  __$$\     $$  __$$\ $$  __$$\ 
-⁠$$$$  _$$$$ |$$ |  $$ |$$ |  $$ |    $$$$$$$$ | \____$$\ $$ /  $$ |$$ |$$ /  $$ |$$$$$$$$ |$$ |  \__|    $$ /  $$ |$$ /  $$ |
-⁠$$$  / \$$$ |$$ |  $$ |$$ |  $$ |$$\ $$   ____|$$\   $$ |$$ |  $$ |$$ |$$ |  $$ |$$   ____|$$ |          $$ |  $$ |$$ |  $$ |
-⁠$$  /   \$$ |$$ |  $$ |$$ |  \$$$$  |\$$$$$$$\ \$$$$$$  |$$$$$$$  |$$ |\$$$$$$$ |\$$$$$$$\ $$ |      $$\ \$$$$$$$ |\$$$$$$$ |
-⁠\__/     \__|\__|  \__|\__|   \____/  \_______| \______/ $$  ____/ \__| \_______| \_______|\__|      \__| \____$$ | \____$$ |
-⁠                                                         $$ |                                            $$\   $$ |      $$ |
-⁠                                                         $$ |                                            \$$$$$$  |      $$ |
-⁠                                                         \__|                                             \______/       \__|
-	-->
-	<!--
-		Copyright 2022 ChromeHack Team
-		Licensed under the Apache License, Version 2.0 (the "License");
-		you may not use this file except in compliance with the License.
-		You may obtain a copy of the License at
-		http://www.apache.org/licenses/LICENSE-2.0
-		Unless required by applicable law or agreed to in writing, software
-		distributed under the License is distributed on an "AS IS" BASIS,
-		WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-		See the License for the specific language governing permissions and
-		limitations under the License.
-	-->
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 		<meta http-equiv="Referrer-Policy" content="no-referrer" />
@@ -34,14 +9,11 @@
 		<meta name="description" content="Open-source adless HTML5, DOS, Flash games unblocked" />
 		<meta name="keywords" content="whitespider,unblocked,games,game,html5,flash,dos,open source,free" />
 		<meta name="theme-color" content="#5a97f3" />
-		<base href="/" />
 		<link rel="icon" type="image/x-icon" href="favicon.ico" />
 		<link rel="stylesheet" type="text/css" href="standard.css" />
 		<link rel="apple-touch-icon" type="image/png" href="res/logo256.png" />
 		<link rel="manifest" type="application/json" href="manifest.json" />
 		<link rel="canonical" href="https://whitespider.chromehack.com/" />
-		<script type="text/javascript" src="lib/webalert.js" async="true"></script>
-		<script type="text/javascript" src="preloader.js" async="true"></script>
 		<title>WhiteSpider</title>
 		<style type="text/css">
 #header {
@@ -469,71 +441,15 @@
 						<div id="dos-game-grid" class="game-grid"></div>
 					</div>
 					<div class="section">
-						<div class="title">Tools/Apps</div>
-						<div class="game-grid">
-							<div id="ebutuoy" class="tool-item">
-								<div class="tool-label">YouTube Unblocked</div>
-								<div class="tool-desc">Unblocked version of YouTube, with all ads removed.</div>
-							</div>
-							<div id="vmlinux" class="tool-item">
-								<div class="tool-label">VMLinux</div>
-								<div class="tool-desc">A 32-bit PC emulator that runs in your browser.</div>
-							</div>
-							<div id="private-search" class="tool-item">
-								<div class="tool-label">Private Search</div>
-								<div class="tool-desc">A private search engine that prevents logging and history saving.</div>
-							</div>
-						</div>
-					</div>
-					<div class="section">
 						<div class="title">Unverified Games (<span id="user-game-count"></span>)</div>
 						<div class="expand button">Show more</div>
 						<div class="text">The games listed here were added by users with the button below, which might have certain issues. You can report these issues with the feedback button in the header.</div>
 						<div id="game-submission-button" class="button">Submit a game now</div>
 						<div id="user-game-grid" class="game-grid"></div>
 					</div>
-					<div id="footer">
-						<div id="links">
-							<div>
-								<div class="title">Alternative Links</div>
-								<a href="https://whitespider.cf" target="_blank" rel="noopener">https://whitespider.cf</a>
-								<a href="https://whitespider.ml" target="_blank" rel="noopener">https://whitespider.ml</a>
-								<a href="https://whitespider.ga" target="_blank" rel="noopener">https://whitespider.ga</a>
-								<a href="https://whitespider.gq" target="_blank" rel="noopener">https://whitespider.gq</a>
-								<a href="https://whitespider.tk" target="_blank" rel="noopener">https://whitespider.tk</a>
-								<br />
-								<div>You can get more mirror links at<br /></div>
-								<a href="https://mirror.whitespider.gq" target="_blank" rel="noopener">mirror.whitespider.gq</a>
-							</div>
-							<div>
-								<div class="title">Contribute</div>
-								<a href="https://docs.google.com/forms/d/e/1FAIpQLSfm3Fzhp1R4GCidei6l-FEA2yujuXuUBf_Sd50EJ5J7GN02oQ/viewform?embedded=true" target="_blank" rel="noopener">Feedback</a>
-								<a href="https://github.com/chromehackteam/whitespider" target="_blank" rel="noopener">View source</a>
-								<a href="https://github.com/chromehackteam/whitespider/issues/new?asignees=&amp;labels=bug&amp;title=" target="_blank" rel="noopener">Report a bug</a>
-								<a href="https://bit.co.in/whitespider" target="_blank" rel="noopener">Donate</a>
-							</div>
-							<div>
-								<div class="title">Social</div>
-								<a href="https://discord.gg/MWCNr2ANEz" target="_blank" rel="noopener">Discord</a>
-								<a href="https://www.youtube.com/@wsug" target="_blank" rel="noopener">YouTube</a>
-								<a href="https://github.com/whitespidergq/" target="_blank" rel="noopener">GitHub</a>
-							</div>
-						</div>
-						<div id="copyright">
-							<div>
-								<img src="https://img.shields.io/github/manifest-json/v/chromehackteam/whitespider?label=Version" alt="Version" />
-								<img src="https://img.shields.io/github/last-commit/chromehackteam/whitespider?label=Last%20Update" alt="Last Update" />
-							</div>
-							<div>©2023 ChromeHack Team, <a href="https://www.chromehack.com" target="_blank" rel="noopener">ChromeHack.com</a></div>
-							<div>We are working hard to improve your user experience.</div>
-						</div>
-					</div>
 				</div>
 			</div>
 		</div>
-		<div id="context-menu">
-			<div id="clear-site-data">Clear site data</div>
-			<div id="clear-cache">Clear cache</div>
-		</div>
+		<script type="module" src="main.js" async="true"></script>
 	</body>
 </html>
