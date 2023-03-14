@@ -79,7 +79,7 @@ switch (location.searchParams.get("type")) {
 		const frame = document.createElement("div");
 		frame.id = "frame";
 		document.body.appendChild(frame);
-		emulators.pathPrefix = "/lib/jsdos/";
+		emulators.pathPrefix = context.baseUrl + "/lib/jsdos/";
 		Dos(frame).run(src);
 		break;
 	}

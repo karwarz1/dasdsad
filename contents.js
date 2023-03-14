@@ -18,179 +18,179 @@ const contents = {
 	dosGames: [
 		{
 			name: "Blood",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fblood.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fblood.jsdos"
 		},
 		{
 			name: "Bombjack",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fbombjack.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fbombjack.jsdos"
 		},
 		{
 			name: "Cavern of the Evil Wizard",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fcavern-of-the-evil-wizard.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fcavern-of-the-evil-wizard.jsdos"
 		},
 		{
 			name: "CHAMP Kong",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fchamp-kong.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fchamp-kong.jsdos"
 		},
 		{
 			name: "Cross Country Trucking",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fcross-country-trucking.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fcross-country-trucking.jsdos"
 		},
 		{
 			name: "DC Games",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fdc-games.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fdc-games.jsdos"
 		},
 		{
 			name: "Doom",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fdoom.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fdoom.jsdos"
 		},
 		{
 			name: "Doom II",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fdoom-ii.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fdoom-ii.jsdos"
 		},
 		{
 			name: "Double Snake",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fdouble-snake.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fdouble-snake.jsdos"
 		},
 		{
 			name: "Drake Snake and the Secret Crypt",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fdrake-snake-and-the-secret-crypt.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fdrake-snake-and-the-secret-crypt.jsdos"
 		},
 		{
 			name: "Duke Nukem 3D",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fduke-nukem-3d.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fduke-nukem-3d.jsdos"
 		},
 		{
 			name: "Dzzee",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fdzzee.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fdzzee.jsdos"
 		},
 		{
 			name: "Flappy Bird",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fflappy-bird.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fflappy-bird.jsdos"
 		},
 		{
 			name: "Freak Farm",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Ffreak-farm.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Ffreak-farm.jsdos"
 		},
 		{
 			name: "GroundFire",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fground-fire.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fground-fire.jsdos"
 		},
 		{
 			name: "HangMan!",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fhang-man.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fhang-man.jsdos"
 		},
 		{
 			name: "Kasia",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fkasia.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fkasia.jsdos"
 		},
 		{
 			name: "KBall",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fkball.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fkball.jsdos"
 		},
 		{
 			name: "Mini Prince",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fmini-prince.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fmini-prince.jsdos"
 		},
 		{
 			name: "Mortal Kombat",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fmortal-kombat.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fmortal-kombat.jsdos"
 		},
 		{
 			name: "Neut Tower",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fneut-tower.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fneut-tower.jsdos"
 		},
 		{
 			name: "Ninja Blitz",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fninja-blitz.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fninja-blitz.jsdos"
 		},
 		{
 			name: "Ossuary",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fossuary.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fossuary.jsdos"
 		},
 		{
 			name: "Pac-Man",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fpac-man.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fpac-man.jsdos"
 		},
 		{
 			name: "Prince of Persia",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fprince-of-persia.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fprince-of-persia.jsdos"
 		},
 		{
 			name: "Quake",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fquake.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fquake.jsdos"
 		},
 		{
 			name: "RCross",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Frcross.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Frcross.jsdos"
 		},
 		{
 			name: "RetroFuel",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fretro-fuel.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fretro-fuel.jsdos"
 		},
 		{
 			name: "Silencer",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fsilencer.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fsilencer.jsdos"
 		},
 		{
 			name: "Slip Speed",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fslip-speed.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fslip-speed.jsdos"
 		},
 		{
 			name: "Snake",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fsnake.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fsnake.jsdos"
 		},
 		{
 			name: "Space Invaders",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fspace-invaders.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fspace-invaders.jsdos"
 		},
 		{
 			name: "Spectre",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fspectre.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fspectre.jsdos"
 		},
 		{
 			name: "Spitball",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fspitball.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fspitball.jsdos"
 		},
 		{
 			name: "Super Roco Bros",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fsuper-roco-bros.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fsuper-roco-bros.jsdos"
 		},
 		{
 			name: "Super Space Fuel Inc.",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fsuper-space-fuel-inc.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fsuper-space-fuel-inc.jsdos"
 		},
 		{
 			name: "Super Street Fighter II Turbo",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fsuper-street-fighter-ii-turbo.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fsuper-street-fighter-ii-turbo.jsdos"
 		},
 		{
 			name: "TetraFix",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Ftetrafix.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Ftetrafix.jsdos"
 		},
 		{
 			name: "Tetris",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Ftetris.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Ftetris.jsdos"
 		},
 		{
 			name: "The Hunt",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fthe-hunt.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fthe-hunt.jsdos"
 		},
 		{
 			name: "Urthwurm",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Furthwurm.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Furthwurm.jsdos"
 		},
 		{
 			name: "Wolfenstein 3D",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fwolfenstein-3d.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fwolfenstein-3d.jsdos"
 		},
 		{
 			name: "WorDOS",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fwordos.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fwordos.jsdos"
 		},
 		{
 			name: "X-Men: Children of the Atom",
-			path: "embed.html?type=jsdos&src=%2Fdos-games%2Fx-men-children-of-the-atom.jsdos"
+			path: "embed.html?type=jsdos&src=dos-games%2Fx-men-children-of-the-atom.jsdos"
 		}
 	],
 	flashGames: [

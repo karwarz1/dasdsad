@@ -1,9 +1,11 @@
+
+const url = self.location.pathname;
 /**
  * Configuration.
  * @type {Object}
  */
 const config = {
-	"base_path": "/html5-games/chromedino-3d/",
+	"base_path": url.substring(url.lastIndexOf(0, "/")),
 	"logs": true,
 	"debug": false,
 	"camera": {

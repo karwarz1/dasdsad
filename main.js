@@ -62,7 +62,10 @@ function updateContents(contents, grid, gridCounter, noPreview) {
 		label.textContent = name;
 		item.appendChild(label);
 
-		item.onclick = () => context.popup(path != null ? path: url, name, {});
+		item.onclick = () => context.popup(path != null ? path: url, name, {
+			staticTitle: true,
+			staticIcon: true
+		});
 		grid.appendChild(item);
 	}
 }
